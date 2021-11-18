@@ -1,0 +1,12 @@
+{
+  "name": "ubuntu-coffee.gr",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "pdfjs-dist": "^2.10.377",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
